@@ -10,7 +10,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6308270" height="30" width="20" />
   </a>
   <a href="https://www.hackerrank.com/@dyam_marcano" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dyam_marcano" height="30" width="20" />
+    <img align="center" src="https://github.com/dyammarcano/dyammarcano/blob/main/assets/img/hackerrank_cursor_favicon_480px-300x300.png" alt="@dyam_marcano" height="30" width="20" />
   </a>
   <a href="https://www.github.com/dyammarcano">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="dyammarcano" height="30" width="20" />
@@ -18,7 +18,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on [Vilt Group](https://www.vilt-group.com).
+- 🔭 I’m currently working at [Vilt Group](https://www.vilt-group.com).
 - 🌱 I’m currently learning Flutter, Rust.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 🤔 I’m looking for help with ...
