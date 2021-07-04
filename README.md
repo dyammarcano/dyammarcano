@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Linkedin: dyammarcano](https://img.shields.io/badge/-dyammarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyammarcano/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: dyammarcano](https://img.shields.io/badge/-dyammarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyammarcano/)](https://www.linkedin.com/in/dyammarcano/)
 [![GitHub dyammarcano](https://img.shields.io/github/followers/dyammarcano?style=flat-square)](https://github.com/dyammarcano)
 [![Visits](https://komarev.com/ghpvc/?username=dyammarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dyammarcano)
 
