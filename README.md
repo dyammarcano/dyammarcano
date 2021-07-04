@@ -18,7 +18,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working at [Vilt Group](https://www.vilt-group.com).
+- :office: I’m currently work at [Vilt Group](https://www.vilt-group.com).
 - 🌱 I’m currently learning Flutter, Rust.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 🤔 I’m looking for help with ...
