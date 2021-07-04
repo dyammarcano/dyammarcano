@@ -45,7 +45,7 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code> 
-<code><img height="20" rc="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
