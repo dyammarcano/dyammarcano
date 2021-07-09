@@ -1,4 +1,4 @@
-## Hola, I'm [Dyam Marcano](https://dyammarcano.github.io) 👋
+## Hello, I'm [Dyam](https://dyammarcano.github.io) 👋
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dyammarcano/dyammarcano/output/github-contribution-grid-snake.svg)
 
