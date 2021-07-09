@@ -57,7 +57,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code> 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dyammarcano&layout=compact)](https://github.com/dyammarcano)
+[![Dyam wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dyammarcano&layout=compact)](https://github.com/dyammarcano)
 
 <a href="https://github.com/dyammarcano">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyammarcano&theme=light&hide_langs_below=1" />
