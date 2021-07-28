@@ -20,6 +20,7 @@
 </p>
 <br/>
 
+- 🏡 I currently live in São Paulo/SP Brazil
 - :office: I’m currently working in the [Vilt Group](https://www.vilt-group.com) company.
 - 🌱 I’m currently learning Flutter, Rust.
 - 💬 Ask me about Flutter or any tech related stuff.
