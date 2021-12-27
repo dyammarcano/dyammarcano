@@ -33,7 +33,7 @@
 [![Linkedin: dyammarcano](https://img.shields.io/badge/-dyammarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyammarcano/)](https://www.linkedin.com/in/dyammarcano/)
 [![GitHub dyammarcano](https://img.shields.io/github/followers/dyammarcano?style=flat-square)](https://github.com/dyammarcano)
 [![Visits](https://komarev.com/ghpvc/?username=dyammarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dyammarcano)
-[![wakatime](https://wakatime.com/badge/user/6b79da73-975a-4385-b934-6b1de042455d.svg)](https://wakatime.com/@6b79da73-975a-4385-b934-6b1de042455d)
+[![wakatime](https://wakatime.com/badge/user/6b79da73-975a-4385-b934-6b1de042455d.svg?style=flat-square)](https://wakatime.com/@6b79da73-975a-4385-b934-6b1de042455d)
 
 [![Spotify](https://spotify-swart.vercel.app/api/spotify)](https://open.spotify.com/user/objfj51gdpsntf26jxa0els9o)
 
