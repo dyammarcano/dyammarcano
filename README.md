@@ -75,7 +75,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Talk is cheap. Show me the code.
 
 </div>
 
