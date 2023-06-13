@@ -21,9 +21,9 @@
 [![Visits](https://komarev.com/ghpvc/?username=dyammarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dyammarcano)
 [![wakatime](https://wakatime.com/badge/user/6b79da73-975a-4385-b934-6b1de042455d.svg?style=flat-square)](https://wakatime.com/@6b79da73-975a-4385-b934-6b1de042455d)
 
-<a href="https://github.com/dyammarcano">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dyammarcano&show_icons=true&theme=transparent&line_height=27&count_private=true" alt="Pawan's github stats"/>
-</a>
+<!--<a href="https://github.com/dyammarcano">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyammarcano&show_icons=true&theme=transparent&line_height=27&count_private=true" alt="Pawan's github stats"/>
+</a>-->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
