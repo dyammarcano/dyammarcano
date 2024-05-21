@@ -5,6 +5,9 @@ on:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
 
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
 jobs:
   update-readme:
     name: Update the WakaTime Stat
