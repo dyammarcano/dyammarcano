@@ -22,9 +22,15 @@
 [![WakaTime](https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@6b79da73-975a-4385-b934-6b1de042455d)
 [![Visits](https://komarev.com/ghpvc/?username=dyammarcano&label=Profile+Views&color=43E55E&style=for-the-badge)](https://github.com/dyammarcano)
 
-<!--<a href="https://github.com/dyammarcano">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyammarcano&show_icons=true&theme=transparent&line_height=27&count_private=true" alt="Pawan's github stats"/>
-</a>-->
+<a href="https://github.com/dyammarcano">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dyammarcano&show_icons=true&theme=transparent&line_height=27&count_private=true" alt="Pawan's github stats"/>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dyammarcano/dyammarcano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dyammarcano/dyammarcano/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dyammarcano/dyammarcano/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
