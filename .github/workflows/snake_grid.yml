@@ -18,9 +18,19 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install canvas
+    
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
