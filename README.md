@@ -4,8 +4,6 @@
 
 - 🏡 I currently live in São Paulo/SP Brazil.
 - 👋 Hi, I’m @dyammarcano.
-- :office: I work in [B3 S.A. - Brasil, Bolsa, Balcão](https://www.b3.com.br) company.
-- 🌱 I’m currently learning Azure, Golang, Wasm
 - 👀 I’m interested in Design Patterns, Clean Architecture, SOLID.
 - 💞️ I’m looking to collaborate on Java, Golang.
 - 📫 How to reach me LinkedIn, Here in GitHub, by email dyam.marcano@gmail.com.
