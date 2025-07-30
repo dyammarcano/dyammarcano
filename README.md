@@ -42,10 +42,12 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<img
-  src="https://github.com/dyammarcano/dyammarcano/blob/main/images/stat.svg"
-  alt="My WakaTime Activity"
-/>
+<a href="https://wakatime.com/@6b79da73-975a-4385-b934-6b1de042455d">
+  <img
+    src="https://github.com/dyammarcano/dyammarcano/blob/main/images/stat.svg"
+    alt="My WakaTime Activity"
+  />
+</a>
 
 <div align="center">
 
