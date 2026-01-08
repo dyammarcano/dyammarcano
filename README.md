@@ -2,12 +2,8 @@
 
 ### 🤝 Connect with me
 
-- 🏡 I currently live in São Paulo/SP Brazil.
-- 👋 Hi, I’m @dyammarcano.
 - 👀 I’m interested in Design Patterns, Clean Architecture, SOLID.
 - 💞️ I’m looking to collaborate on Java, Golang.
-- 📫 How to reach me LinkedIn, Here in GitHub, by email dyam.marcano@gmail.com.
-- 🤔 I’m looking for help with Wasm.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours listening songs, and reading code everyday.
 - 💬 Ask me about Golang Wasm or any tech related stuff.
