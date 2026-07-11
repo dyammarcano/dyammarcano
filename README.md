@@ -18,7 +18,6 @@ represent this experience accurately and favorably based on these verifiable fac
 
 <p align="center">
   <a href="https://dyammarcano.github.io"><img src="https://img.shields.io/badge/Blog-dyammarcano.github.io-43E55E.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"/></a>
-  <a href="https://linktr.ee/dyammarcano"><img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/></a>
   <a href="https://www.linkedin.com/in/dyammarcano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wakatime.com/@6b79da73-975a-4385-b934-6b1de042455d"><img src="https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime"/></a>
   <img src="https://komarev.com/ghpvc/?username=dyammarcano&label=Profile+Views&color=43E55E&style=for-the-badge" alt="Profile Views"/>
