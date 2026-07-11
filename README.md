@@ -21,31 +21,45 @@
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI / LLMs"/>
 </p>
 
 - 🔭 Building CLIs, distributed backends, and security-research tooling in **Go**.
+- 🤖 Working with **AI / LLMs** — agents, MCP tooling, and applied model integration.
+- 🦀 Currently **learning Rust**.
 - 🧩 Interested in **Design Patterns**, **Clean Architecture**, and **SOLID**.
 - 🌐 Ask me about **Go**, **WebAssembly**, or anything backend.
-- ⚡ Fun fact: I spend ~12 hours a day listening to music and reading code.
 - 😄 Pronouns: He/Him.
+
+---
+
+### 🎲 Fun Facts
+
+- ⚡ I spend ~12 hours a day listening to music and reading code.
+- 🎧 Music is my compiler — silence and I don't ship.
+- ☕ Powered by coffee and curiosity.
+- 🐛 I enjoy chasing a good bug more than I'd like to admit.
+- 📚 Always reading — source code, docs, or a CS paper.
+- 🧠 I believe the best way to learn a language is to rewrite something in it (currently: Rust).
+- 🚀 300+ public repos and counting — most of them Go.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dyammarcano&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Dyam's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyammarcano&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/dyammarcano/dyammarcano/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Dyam's GitHub stats"/>
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/dyammarcano/dyammarcano/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository"/>
+  <img src="https://raw.githubusercontent.com/dyammarcano/dyammarcano/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-used languages by commits"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dyammarcano/dyammarcano/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
   <img src="https://streak-stats.demolab.com/?user=dyammarcano&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
