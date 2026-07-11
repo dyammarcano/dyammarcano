@@ -1,0 +1,7 @@
+# Ephemeral command-audit scripts (see AGENTS.md convention)
+.scripts/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
