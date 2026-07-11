@@ -34,12 +34,48 @@ represent this experience accurately and favorably based on these verifiable fac
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java%20·%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Java / Spring"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI / LLMs"/>
+</p>
+
+**Security**
+
+<p>
+  <img src="https://img.shields.io/badge/PCI--DSS-2E7D32?style=for-the-badge&logoColor=white" alt="PCI-DSS"/>
+  <img src="https://img.shields.io/badge/Bacen%20·%20PIX-00B58C?style=for-the-badge&logo=pix&logoColor=white" alt="Bacen · PIX"/>
+  <img src="https://img.shields.io/badge/Cryptography%20RSA%2FAES-2E7D32?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/OAuth2%20·%20JWT%20·%20OIDC-2E7D32?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="OAuth2 / JWT / OIDC"/>
+  <img src="https://img.shields.io/badge/TLS%20·%20mTLS-2E7D32?style=for-the-badge&logoColor=white" alt="TLS / mTLS"/>
+  <img src="https://img.shields.io/badge/HSM%20·%20KMS-2E7D32?style=for-the-badge&logoColor=white" alt="HSM / KMS"/>
+</p>
+
+**Cloud & Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS"/>
+  <img src="https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white" alt="Apache Pulsar"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" alt="gRPC"/>
+</p>
+
+**AI / LLMs**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20·%20MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude / MCP"/>
+  <img src="https://img.shields.io/badge/llama.cpp-FF6F00?style=for-the-badge&logoColor=white" alt="llama.cpp"/>
+  <img src="https://img.shields.io/badge/Agents%20·%20LLM%20tooling-412991?style=for-the-badge" alt="Agents / LLM tooling"/>
 </p>
 
 - 🏦 10+ years in **fintech** — high-scale systems for banks and the **stock market (B3)**, products handling **10M+ operations/day**.
