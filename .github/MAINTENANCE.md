@@ -12,7 +12,6 @@ the automation, and how to update things safely.
 | `llms.txt` | Machine-readable summary for AI agents / crawlers | You — keep in sync with README |
 | `LICENSE` | License | You |
 | `.gitattributes` | LF normalization + marks generated files | You |
-| `assets/` | Static assets (`Profile.pdf` résumé, images) | You |
 | `images/stat.svg` | WakaTime stat image referenced by the README | Semi-static |
 | `github-contribution-grid-snake*.svg` | Contribution "snake" animation (root) | **Auto-generated** |
 | `profile-summary-card-output/<theme>/*.svg` | Stats / top-langs / productive-time cards | **Auto-generated** |
